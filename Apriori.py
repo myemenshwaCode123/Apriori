@@ -13,7 +13,7 @@ def load_and_preprocess_data(file_path):
 
 
 # Load and preprocess data
-data_file = '../PythonProjectsRepo/OnlineRetail.csv'
+data_file = '../PythonRepo2/OnlineRetail.csv'
 data = load_and_preprocess_data(data_file)
 
 # Generate basket for France
